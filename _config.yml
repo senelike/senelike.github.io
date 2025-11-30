@@ -14,9 +14,9 @@ timezone: 'Europe/Istanbul' # Örneğin İstanbul için burayı doldurun
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Enes Önen # the main title
 
-tagline: Bir metin odaklı Jekyll teması. # it will display as the subtitle
+tagline: Cyber Security Analyst # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Teknik yazım için minimal, duyarlı ve zengin özellikli bir Jekyll teması.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/111562801?v=4&size=64
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
